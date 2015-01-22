@@ -1,0 +1,12 @@
+c:\users\dima\documents\visual studio 2013\Projects\Calc\Calc\bin\Calc.dll.config
+c:\users\dima\documents\visual studio 2013\Projects\Calc\Calc\bin\Calc.dll
+c:\users\dima\documents\visual studio 2013\Projects\Calc\Calc\bin\Calc.pdb
+c:\users\dima\documents\visual studio 2013\Projects\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+c:\users\dima\documents\visual studio 2013\Projects\Calc\Calc\obj\Debug\Calc.dll
+c:\users\dima\documents\visual studio 2013\Projects\Calc\Calc\obj\Debug\Calc.pdb
+C:\Users\Dima\Documents\Visual Studio 2013\Projects\Calc 2\Calc\bin\Calc.dll.config
+C:\Users\Dima\Documents\Visual Studio 2013\Projects\Calc 2\Calc\bin\Calc.dll
+C:\Users\Dima\Documents\Visual Studio 2013\Projects\Calc 2\Calc\bin\Calc.pdb
+C:\Users\Dima\Documents\Visual Studio 2013\Projects\Calc 2\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Documents\Visual Studio 2013\Projects\Calc 2\Calc\obj\Debug\Calc.dll
+C:\Users\Dima\Documents\Visual Studio 2013\Projects\Calc 2\Calc\obj\Debug\Calc.pdb
