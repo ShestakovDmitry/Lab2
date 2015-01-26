@@ -13,7 +13,19 @@ namespace Calc
         //Лист хронящий контролы операций
         private List<CalcOperation> ListCalcOperation = new List<CalcOperation>();
         //количество добавленных контролов
-        private static int n = 0;
+        private int n
+        {
+            get
+            {
+                object o = ViewState["N_controls"];
+                return (o == null) ? 0 : (int)o;
+            }
+
+            set
+            {
+                ViewState["N_controls"] = value;
+            }
+        }        
 
         //Создание контролов
         protected void Page_Load(object sender, EventArgs e)
